@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![Screenshot 2023-09-26 144527](https://github.com/vasundrasriravi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393983/d52252ac-9c7f-4ca7-b976-06a681774c4a)
+
+
+### Name: VASUNDRA SRI R
+### Register Number: 212222230168
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
